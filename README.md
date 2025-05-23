@@ -1,11 +1,11 @@
 # Projeto Apache com Docker Compose
 
-Este projeto executa um servidor Apache rodando em container Docker usando Docker Compose. A aplicação é uma página web simples com HTML, CSS e JavaScript.
+Este projeto executa um servidor Apache rodando em container Docker usando Docker Compose. A aplicação é uma página web simples com HTML.
 
 ## Estrutura do projeto
 
 - `docker-compose.yml`: arquivo de configuração do Docker Compose para subir o container Apache.
-- `website/`: pasta com arquivos da aplicação web (HTML, CSS, JS).
+- `website/`: pasta com arquivos da aplicação web (HTML).
 
 ## Como executar
 
